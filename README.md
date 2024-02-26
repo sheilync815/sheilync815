@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sheilync815
 - 🌱 I’m currently learning: In this CTE program about creating a website
-- 💞️ I’m looking to collaborate on:
+- 💞️ I’m looking to collaborate on: creating a website on something useful for the community
 - 📫 How to reach me: email
 - 😄 Pronouns: she/her
 
